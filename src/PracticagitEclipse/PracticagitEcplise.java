@@ -3,6 +3,11 @@ package PracticagitEclipse;
 import java.util.Scanner;
 
 public class PracticagitEcplise {
+	
+	
+	public void nuevafuncion(){
+	
+	}
 	public static void main(String [] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -17,6 +22,12 @@ public class PracticagitEcplise {
 		      
 		      System.out.println("El resultado es: " + resultado);
 		      sc.close();
-			}
+
+	
+
+	
+	}
+	
+
 }
 
