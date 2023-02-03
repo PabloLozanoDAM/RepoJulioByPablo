@@ -13,7 +13,7 @@ public class PracticagitEcplise {
 		      System.out.println("dime un numero entero: ");
 		      int b = sc.nextInt();
 		      
-		      boolean resultado = (a == b);
+		      boolean resultado = (a != b);
 		      
 		      System.out.println("El resultado es: " + resultado);
 		      sc.close();
